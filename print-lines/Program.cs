@@ -19,6 +19,7 @@ namespace print_lines
 		{
 			Console.WriteLine("Line 4");
 			Console.WriteLine("Line 5");
+			Console.WriteLine("ERROR
 		}
     }
 }
