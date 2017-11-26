@@ -14,5 +14,10 @@ namespace print_lines
 			Console.WriteLine("Line 2");
 			Console.WriteLine("Line 3")
         }
+		
+		public void MoreLines()
+		{
+			Console.WriteLine("Line 4");
+		}
     }
 }
