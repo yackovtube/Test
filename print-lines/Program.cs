@@ -18,6 +18,7 @@ namespace print_lines
 		public void MoreLines()
 		{
 			Console.WriteLine("Line 4");
+			Console.WriteLine("Line 5");
 		}
     }
 }
