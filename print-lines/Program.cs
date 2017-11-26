@@ -10,7 +10,7 @@ namespace print_lines
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Line 1");
         }
     }
 }
